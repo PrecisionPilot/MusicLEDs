@@ -5,7 +5,7 @@
 - The pc software (AudioVisualizer.exe)
 - And demo videos
 
-### Instructions:
+### Installation:
 1. Upload the code to your arduino board and plug it into your computer
 2. Run "AudioVisualizer.exe and select your Arduino serial port
 3. Pick your favourite song
