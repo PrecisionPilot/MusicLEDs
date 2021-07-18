@@ -1,9 +1,9 @@
 # MusicLEDs
 
 ### Includes:
-- The Arduino code
-- The pc software (AudioVisualizer.exe)
-- And demo videos
+- The Arduino [code](https://github.com/PilotPrix/MusicLEDs/blob/main/Arduino/LEDstrip/LEDstrip.ino)
+- The pc software ([AudioVisualizer.exe](https://github.com/PilotPrix/MusicLEDs/tree/main/Unity%20(Audio%20Visualizer)))
+- And demo [videos](https://github.com/PilotPrix/MusicLEDs/tree/main/Demo)
 
 ### Installation:
 1. Upload the code to your arduino board and plug it into your computer
