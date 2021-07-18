@@ -10,3 +10,6 @@
 2. Run "AudioVisualizer.exe and select your Arduino serial port
 3. Pick your favourite song
 4. Watch your LEDs dance to the music!
+
+## Contact
+Sean Wang - [LinkedIn](https://www.linkedin.com/in/pilotprix/) - [Instagram](https://www.instagram.com/sheeanthesheep/)
