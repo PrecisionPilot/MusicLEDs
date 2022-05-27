@@ -1,5 +1,9 @@
 # MusicLEDs
 
+[Video Demo] (https://youtu.be/u2vZPqrnLoQ)
+![{9F3CF6B5-6E71-442C-95D3-BFA1A58C05AF}](https://user-images.githubusercontent.com/69162332/170627034-8fb87d5d-dd29-478f-b5a5-62023a033e8a.png)
+
+
 ### Includes:
 - The Arduino [code](https://github.com/PilotPrix/MusicLEDs/blob/main/Arduino/LEDstrip/LEDstrip.ino)
 - The pc software ([AudioVisualizer.exe](https://github.com/PilotPrix/MusicLEDs/tree/main/Unity%20(Audio%20Visualizer)))
